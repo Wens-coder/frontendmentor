@@ -1,0 +1,14 @@
+img {
+  height: 130px;
+  border-radius: 8px;
+  margin-top: 7px;
+}
+.ingredients {
+  background-color: lightpink;
+}
+.wens {
+  color: saddlebrown;
+}
+h3 {
+  color: purple;
+}
